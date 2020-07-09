@@ -4,7 +4,7 @@ public class ExitAction implements UserAction {
 
     @Override
     public String name() {
-        return "";
+        return "Exit";
     }
 
     @Override
